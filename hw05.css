@@ -1,0 +1,30 @@
+body {
+	font-family: Arial;
+}
+
+h1 h2 {
+	text-align: center;
+}
+
+circle {
+	fill: blueviolet;
+}
+
+#left {
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+
+#right {
+	margin-left: 60%;
+	height: 100%;
+}
+
+.point:hover {
+	fill: lightpink;
+}
+
+.bar {
+
+}
